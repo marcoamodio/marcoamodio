@@ -7,11 +7,9 @@ Check my website at [https://bio.link/marcoamodio](https://bio.link/marcoamodio)
 
 ## About Me
 
-I'm **Marco Amodio**, a **UI Designer / Frontend developerr** living in **Naples, IT**.
+I'm **Marco Amodio**, a **UI Designer / Frontend developer** living in **Naples, IT**.
 
-My interest is to consolidate, share and expand the knowledge acquired in the creative field in the processes of the UI Design user experience.
-Visual Design and prototyping with tools such as Figma and Sketch.
-
+My interest is to consolidate, share and expand the knowledge acquired in the creative field in the processes of the User Interface.
 Research and design sessions with consolidated foundations in web design: CSS3, SCSS, HTML5.
 Frontend development mainly with ES6 using React.
 
