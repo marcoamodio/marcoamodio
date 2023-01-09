@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/marco-amodio-30639158/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/marcoamodio/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 
-Check my website at [https://bio.link/marcoamodio](https://bio.link/marcoamodio)
+Check my website at [https://www.marcoamodio.info/](https://www.marcoamodio.info/)
 
 ## About Me
 
