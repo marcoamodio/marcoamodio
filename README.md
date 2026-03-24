@@ -7,7 +7,7 @@ Check my website at [https://www.marcoamodio.info/](https://www.marcoamodio.info
 
 ## About Me
 
-..when it was once called, for the nostalgic, web designer 💻 🎨. well.. I'm **Marco Amodio**, a **UX Engineer** living in **Naples, IT**.
+..when it was once called, for the nostalgic, web designer 💻 🎨. well.. I'm **Marco Amodio**, a **UX Engineer - Experience Designer** living in **Rome, Italy**.
 
 My interest is to consolidate, share and expand the knowledge acquired in the creative field in the processes of the User Interface.
 I build web interfaces, desing system and components library.
